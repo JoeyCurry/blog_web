@@ -1,0 +1,9 @@
+.main_title{
+    width:70px;
+    position: absolute;
+    font-size: 13px;
+    color: #fff;
+    left:10px;
+    text-align: center;
+    top:3px;
+}
